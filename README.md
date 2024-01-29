@@ -1,4 +1,4 @@
-# hyperblog :tw-1f4bd: 
+# hyperblog 💻 
 Un blog de práctica para el[ curso de git y github.](http://https://platzi.com/cursos/git-github/ " curso de git y github.")
 >El curso de git y GitHub de [platzi](http://https://platzi.com/new-home/ "platzi") es lo que me hacía falta  para triplicar mi salario y lanzarme a la industria del tejido de lan a sintética con machine learning.
 > - Alright
