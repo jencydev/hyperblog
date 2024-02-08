@@ -9,6 +9,10 @@ Un blog de práctica para el[ curso de git y github.](http://https://platzi.com/
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
+- creado por mí best programmer ever.
+- incluye una imagen de jon snow!
+- anyone has access
+
 
 - creado por mí best programmer ever.
 - incluye una imagen de jon snow!
