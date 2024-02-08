@@ -11,6 +11,7 @@ Un blog de práctica para el[ curso de git y github.](http://https://platzi.com/
 - Las personalidades múltiples de Freddy
 - creado por mí best programmer ever.
 - incluye una imagen de jon snow!
+- anyone has access
 
 
 Y como un amable recordatorio: **"Este readme.md es de práctica"** Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a [**ver el curso.**](http://http://https://platzi.com/cursos/git-github/ "**ver el curso.**")
